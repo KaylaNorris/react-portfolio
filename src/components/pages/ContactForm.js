@@ -2,8 +2,9 @@ import React from 'react';
 
 export default function ContactForm(props) {
   return (
-    <div>
-      <h1>Contact Me</h1>
+    
+    <div class="card mt-5 has-text-info">
+      <h1 class="mt-5">Contact Me</h1>
     <br />
     <form>
       <div className="form-group">
@@ -24,7 +25,7 @@ export default function ContactForm(props) {
           value={props.value}
           name="email"
           type="text"
-          className="form-control"
+          className="form-control is-info"
           placeholder="Email Address"
           id="email"
         />
@@ -35,13 +36,13 @@ export default function ContactForm(props) {
           value={props.value}
           name="message"
           type="text"
-          className="form-control"
+          className="form-control mb-5 textarea"
           placeholder="Message"
           id="message"
         />
         <button
           onClick={props.handleFormSubmit}
-          className="btn btn-primary"
+          className="btn btn-primary mb-5"
           type="submit"
         >
           Submit
