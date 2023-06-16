@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.d77fc681.css",
+    "main.js": "/react-portfolio/static/js/main.1a963a00.js",
+    "static/media/mod-1-challenge-screenshot.png": "/react-portfolio/static/media/mod-1-challenge-screenshot.4097a86f1d0636bf4486.png",
+    "static/media/gamesnow-screenshot.png": "/react-portfolio/static/media/gamesnow-screenshot.c413ce7201bcdd72c20b.png",
+    "static/media/morning-java-screenshot.png": "/react-portfolio/static/media/morning-java-screenshot.e7b6181c1d1bd7aa186b.png",
+    "static/media/bio-page-screenshot.png": "/react-portfolio/static/media/bio-page-screenshot.862ee0838a9992e6d9a7.png",
+    "static/media/css-cheatsheet-screenshot.png": "/react-portfolio/static/media/css-cheatsheet-screenshot.4f2eed98a448d5b9807c.png",
+    "static/media/wall-pilates-screenshot.png": "/react-portfolio/static/media/wall-pilates-screenshot.c916caa26f5f18fc23a0.png",
+    "static/media/prework-study-guide-screenshot.png": "/react-portfolio/static/media/prework-study-guide-screenshot.e76d670ae9cde712b729.png",
+    "static/media/work-scheduler-screenshot.png": "/react-portfolio/static/media/work-scheduler-screenshot.7e072087282c7d73003f.png",
+    "static/media/password-generator-screenshot.png": "/react-portfolio/static/media/password-generator-screenshot.d4639cea7f6154b9ae0b.png",
+    "static/media/code-quiz-screenshot1.png": "/react-portfolio/static/media/code-quiz-screenshot1.d5cba6eb6659d2a21497.png",
+    "static/media/code-quiz-screenshot4.png": "/react-portfolio/static/media/code-quiz-screenshot4.af097c24b89e2b9bf0e1.png",
+    "static/media/code-quiz-screenshot3.png": "/react-portfolio/static/media/code-quiz-screenshot3.bf9a207185196e4519f0.png",
+    "static/media/code-quiz-screenshot2.png": "/react-portfolio/static/media/code-quiz-screenshot2.21f3c772633ae1fd1f0d.png",
+    "static/media/UPDATEDRESUME1024_1.jpg": "/react-portfolio/static/media/UPDATEDRESUME1024_1.f7c93c33f35306725beb.jpg",
+    "static/media/profile-pic.jpg": "/react-portfolio/static/media/profile-pic.54db6cbbbfce1d125525.jpg",
+    "static/media/UPDATEDRESUME.pdf": "/react-portfolio/static/media/UPDATEDRESUME.6d725530a2c448f90e2e.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.d77fc681.css.map": "/react-portfolio/static/css/main.d77fc681.css.map",
+    "main.1a963a00.js.map": "/react-portfolio/static/js/main.1a963a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d77fc681.css",
+    "static/js/main.1a963a00.js"
+  ]
+}
